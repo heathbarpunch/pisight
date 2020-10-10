@@ -7,7 +7,7 @@ set -e
 
 cd /home/pi
 
-git clone https://github.com/maxbbraun/uvc-gadget
+git clone https://github.com/heathbarpunch/uvc-gadget
 cd uvc-gadget
 
 make
